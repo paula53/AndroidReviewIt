@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "158028088224",
+    "firebase_url": "https://revieit.firebaseio.com",
+    "project_id": "revieit",
+    "storage_bucket": "revieit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158028088224:android:def1776ef14eff6c",
+        "android_client_info": {
+          "package_name": "com.example.revieit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158028088224-eilgfnmt8vvp4f40514nca6p34cppkl4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.revieit",
+            "certificate_hash": "fcd35e6318a10fb2447d3844e863161d2bc1932a"
+          }
+        },
+        {
+          "client_id": "158028088224-gg5sm8aa9dc5po3oagj9b8695dkugmag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp0X7VzrUuFO4GHh8JCpQNE04OgmWJA6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158028088224-gg5sm8aa9dc5po3oagj9b8695dkugmag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
